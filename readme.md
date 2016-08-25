@@ -1,8 +1,12 @@
 # Kirby Boiler Readme
 
-*Version 1.0*
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Kirby Version](https://img.shields.io/badge/Kirby-2.0%2B-red.svg)
 
-Write a description here. It should be short and sweet about what the plugin does. If you can, add an animated gif or screenshot. It will probably make more people use your plugin.
+*Version 1.0.0*
+
+Write a short description of what the plugin is about. If you can, add an animated gif or screenshot. It will probably make more people use your plugin.
+
+![](https://placeholdit.imgix.net/~text?txtsize=38&txt=Screenshot&w=888&h=150&txttrack=0)
 
 ## Installation
 
@@ -55,19 +59,29 @@ c::set('plugin.your.plugin.option', 'Default value');
 
 ## Changelog
 
-**1.1**
+**1.0.0**
 
 - Add the items in a descending order 
 
-**1.0**
+**0.5.1**
 
 - Some important change
 - Initial release
 
+## Todo
+
+- [ ] An uncompleted task
+- [x] ~~A completed task~~
+
 ## Requirements
 
-Kirby 2.0
+- Kirby 2.0+
 
 ## License
 
 MIT
+
+## Credits
+
+- [Jens Törnell](https://github.com/jenstornell)
+- [Mathieu Etienne](https://github.com/Thiousi/)
