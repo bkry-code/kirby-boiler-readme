@@ -29,7 +29,6 @@ fields:
   yourfield:
     title: Your Field
     type: yourfield
-  
 ```
 
 ### 2. Add JS to your footer
