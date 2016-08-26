@@ -4,7 +4,7 @@
 
 *Version 1.0.0*
 
-Write a short description of what the plugin is about. If you can, add an animated gif or screenshot. It will probably make more people use your plugin.
+Write a short description of what the plugin is about.
 
 ![Screenshot](https://placehold.it/888x150?text=Screenshot)
 
@@ -54,7 +54,7 @@ fields:
     type: yourfield
 ```
 
-### 2. Add JS to your footer
+### 2. Javascript
 
 Add the following code to your `footer.php` snippet:
 
@@ -64,17 +64,25 @@ echo js('assets/plugins/plugin-name/js/script.js');
 
 ## Usage
 
-Describe how to use this plugin. Text, images, videos etc is good here.
+Text, images and videos are good things to describe how to use this plugin.
 
 ## Options
 
-### A plugin option
+The following options can be set in your `/site/config/config.php` file:
 
-Describe the option and always set the second argument as the default value.
+```php
+c::set('plugin.your.plugin.option1', 25);
+c::set('plugin.your.plugin.option2', 'foo');
+c::set('plugin.your.plugin.option3', ['foo', 'bar']);
+```
 
-```
-c::set('plugin.your.plugin.option', 'Default value');
-```
+### option1
+
+This option is an integer, a number which can be used for calculations.
+
+### option2
+
+This option is a string, which can be used for text representations.
 
 ## Changelog
 
