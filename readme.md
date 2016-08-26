@@ -6,7 +6,7 @@
 
 Write a short description of what the plugin is about. If you can, add an animated gif or screenshot. It will probably make more people use your plugin.
 
-![Screenshot](https://placeholdit.imgix.net/~text?txtsize=38&txt=Screenshot&w=888&h=150&txttrack=0)
+![Screenshot](https://placehold.it/888x150?text=Screenshot)
 
 ## Installation
 
