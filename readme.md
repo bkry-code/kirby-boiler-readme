@@ -37,6 +37,7 @@ site/plugins/plugin-name/
 If you know your way around Git, you can download this plugin as a submodule:
 
 ```
+$ cd path/to/kirby
 $ git submodule add https://github.com/username/plugin-name site/plugins/plugin-name
 ```
 
