@@ -112,6 +112,7 @@ This plugin is provided "as is" with no guarantee. Use it at your own risk and a
 
 [MIT](https://opensource.org/licenses/MIT)
 
+
 ## Credits
 
 - [Jens Törnell](https://github.com/jenstornell)
